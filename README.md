@@ -2,7 +2,7 @@
 
 # How to Run the Node.js Project
 
-This project demonstrates converting a long url into a short and encrypted url.
+This project demonstrates texting in real time using websoket.
 
 ## Prerequisites
 
